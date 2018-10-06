@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prac</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="lorem_ipsum2">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</string>
+    <string name="lorem_ipsum3">Lorem ipsum dolor sit amet</string>
+</resources>
